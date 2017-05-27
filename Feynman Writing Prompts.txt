@@ -1,0 +1,9 @@
+Feynman Writing Prompts
+
+* Callback Functions - A function that is passed to another function and executed inside of that function.
+* Closure - When returning a function from a function the function the function that gets returns remembers the scope of where it was returned from.
+* arguments array - Used with an unknown number of arguments being passed to a function.
+* recursion - A loop element that calls itself from inside itself.
+* prototype - Used instead of having many objects with the same function being called. Defined outside of the constructor.
+* constructors - Used to create objects over and over again (template).
+ 
